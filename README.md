@@ -32,7 +32,7 @@ A powerful CLI tool for managing cloud instances, monitoring systems, and handli
 
 ### From Source
 ```bash
-git clone https://github.com/yourusername/instancehub.git
+git clone https://github.com/krishna273422/instancehub.git
 cd instancehub
 pip install -e .
 ```
@@ -183,7 +183,7 @@ output:
 
 ### Setup Development Environment
 ```bash
-git clone https://github.com/yourusername/instancehub.git
+git clone https://github.com/krishna273422/instancehub.git
 cd instancehub
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
@@ -223,4 +223,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-If you encounter any issues or have questions, please [open an issue](https://github.com/yourusername/instancehub/issues) on GitHub.
+If you encounter any issues or have questions, please [open an issue](https://github.com/krishna273422/instancehub/issues) on GitHub.
